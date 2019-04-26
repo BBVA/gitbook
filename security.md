@@ -1,10 +1,10 @@
 ---
-description: Security Projects from BBVA-Labs Team
+description: Security Projects from Innovation Labs Security Team
 ---
 
 # Innovation Labs - Security
 
-## BBVA-Lab Security Team
+## Innovation Labs - Security Team
 
 Our DevSecOps tools
 
