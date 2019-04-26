@@ -1,2 +1,2 @@
-# BBVA-Labs Artificial Intelligence
+# Innovation Labs - Artificial Intelligence
 

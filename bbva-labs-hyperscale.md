@@ -1,2 +1,2 @@
-# BBVA-Labs Hyperscale
+# Innovation Labs - Hyperscale
 

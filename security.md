@@ -2,7 +2,7 @@
 description: Security Projects from BBVA-Labs Team
 ---
 
-# BBVA-Labs Security
+# Innovation Labs - Security
 
 ## BBVA-Lab Security Team
 

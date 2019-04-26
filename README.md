@@ -4,7 +4,7 @@ This Site exposes the BBVA-Labs projects and philosophy
 
 ## Teams
 
-### BBVA-Labs Security
+### Innovation Labs - Security
 
 ![](.gitbook/assets/photo.png)
 
@@ -12,13 +12,13 @@ Focused in practical investment about security tendencies and DevSecOps. **Go to
 
 {% page-ref page="security.md" %}
 
-###  BBVA-Labs Artificial Intelligence
+### Innovation Labs - Artificial Intelligence
 
 Focused in practical investment about XXXX. **Go to AI Team Page:**
 
 {% page-ref page="bbva-labs-artificial-intelligence.md" %}
 
-### BBVA-Labs Hyperscale
+### Innovation Labs - Hyperscale
 
 Focused in practical investment about XXXX . **Go to Hyperscale Team Page:**
 
