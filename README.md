@@ -1,6 +1,6 @@
 # Home
 
-This Site exposes the BBVA-Labs projects and philosophy 
+This Site exposes the BBVA Innovation Labs projects and philosophy 
 
 ## Teams
 
