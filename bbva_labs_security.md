@@ -12,7 +12,7 @@ We research new security tendencies, techniques and solutions in about Cyber-sec
 
 ## Our projects
 
-We like Open Source and we believe the mantra "Don't reinvent the wheel'.
+We like Open Source and we believe the mantra "Don't reinvent the wheel".
 
 We create projects that tray to cover a gap that we found and are not covered by other Open Source projects or commercial solutions. 
 
@@ -20,7 +20,7 @@ Here you can check our project. We invite you to use it, test it and ... collabo
 
 ### APICheck - The DevSecOps toolset for REST APIs
 
-![APICheck Logo](.gitbook/assets/apicheck-logo.png)
+![](.gitbook/assets/apicheck-logo.png)
 
 API-Check is a complete toolset created and designed for testing the REST API. 
 
@@ -36,7 +36,7 @@ API-Check focus not only in the security testing and hacking uses cases. The goa
 
 ### DeepTracy - The Security Dependency Analyzers Orchestrator
 
-![DeepTracy Logo](.gitbook/assets/deeptracy-logo-small.png)
+![](.gitbook/assets/deeptracy-logo-small.png)
 
 DeepTracy is an open security dependency orchestrator service that runs as a service. Featured features:
 
@@ -52,7 +52,7 @@ DeepTracy is an open security dependency orchestrator service that runs as a ser
 
 ### Patton - The clever vulnerability dependency finder
 
-![Patton Logo](.gitbook/assets/patton-logo.png)
+![](.gitbook/assets/patton-logo.png)
 
 Patton Server can resolve any library name to their CPE. Then returns the associated CVEs for this CPE. Features:
 
@@ -66,7 +66,7 @@ Patton Server can resolve any library name to their CPE. Then returns the associ
 
 ### Kapow - CLI as Microservice
 
-![Kapow Logo](.gitbook/assets/kapow.png)
+![](.gitbook/assets/kapow.png)
 
 Kapow! is the easiest way to expose command line tools as REST APIs.
 
@@ -98,7 +98,7 @@ Masquerade currently support these locations:
 
 ### Q.E.D. - The Open Sourced certification platform: faster, hyper-scalable and centralized.
 
-![qed Logo](.gitbook/assets/qed_logo.png)
+![](.gitbook/assets/qed_logo.png)
 
 QED is the unique centralized open sourced platform to secure digital certificate any information content exchange.
 
