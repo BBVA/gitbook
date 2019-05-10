@@ -4,27 +4,29 @@ description: Security Projects from BBVA Labs Security Team
 
 # BBVA Labs - Security
 
-## What we are
+## Who we are
+
+We are security practitioners controlling our paranoia (sometimes) and focusing our knowledge and experience to build new security solutions and practices for new (and old) IT systems and processes
 
 ## What we do?
 
-We research new **security tendencies, techniques and solutions** in about Cyber-security issues, especially focused in **SecDevOps** processes.
+We research new **security tendencies, techniques and solutions** in Cyber-security issues, especially focused in **SecDevOps** processes. with near-future impact in the security of BBVA Group and hopefully in the rest of the world
 
 ## Our projects
 
-We like Open Source and we believe the mantra **"Don't reinvent the wheel"**.
+We like Open Source and we believe the in mantra **"Don't reinvent the wheel"**.
 
-We create projects that **tray to cover the gap** that we found and are not covered by other Open Source projects or commercial solutions.
+We create projects that **tray to close the gap** that we found and are not covered by other Open Source projects or commercial solutions.
 
-Here you can check our project. We invite you to use it, test it and ... collaborate. **Any collaboration are welcome**.
+Here you can check our projects. We invite you to use it, test it and ... collaborate. **We welcome contributions**.
 
 ### APICheck - The DevSecOps toolset for REST APIs
 
 ![](.gitbook/assets/apicheck-logo.png)
 
-API-Check is a complete **toolset** created and designed for **testing the REST API**.
+API-Check is a complete **toolset** designed and created for **testing the REST API**.
 
-API-Check focus not only in the security testing and hacking uses cases. The goal of project is to be a complete toolset for DevSecOPs cycles and for different users profiles:
+API-Check focus not only in the security testing and hacking uses cases. The goal of the the project is to be a complete toolset for DevSecOPs cycles and for different users profiles:
 
 * Developers
 * Systems SysAdmins
@@ -93,11 +95,11 @@ Masquerade currently support these locations:
 **Github Repo**: [https://github.com/BBVA/masquerade](https://github.com/BBVA/masquerade)   
 **Documentation**: [https://github.com/BBVA/masquerade](https://github.com/BBVA/masquerade)
 
-### Q.E.D. - The Open Sourced certification platform: faster, hyper-scalable and centralized.
+### Q.E.D. - The Open Sourced audit-trail platform: faster, hyper-scalable and centralized...but fully verifiable
 
 ![](.gitbook/assets/qed_logo.png)
 
-QED is the unique centralized open sourced platform to secure digital certificate any information content exchange.
+QED is a powerful open sourced platform to secure digital certificate any information content exchange.
 
 **Github Repo**: [https://github.com/BBVA/qed](https://github.com/BBVA/qed)   
 **Documentation**: [https://github.com/BBVA/qed/blob/master/README.md](https://github.com/BBVA/qed/blob/master/README.md)
