@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
-* [Innovation Labs - Security](security.md)
-* [Innovation Labs - Artificial Intelligence](bbva-labs-artificial-intelligence.md)
-* [Innovation Labs - Hyperscale](bbva-labs-hyperscale.md)
+* [BBVA Labs - Security](bbva_labs_security.md)
+* [BBVA Labs - Artificial Intelligence](bbva-labs-artificial-intelligence.md)
+* [BBVA Labs - Hyperscale](bbva-labs-hyperscale.md)
 

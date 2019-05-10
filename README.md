@@ -1,26 +1,24 @@
 # Home
 
-This Site exposes the BBVA Innovation Labs projects and philosophy 
+This Site exposes the BBVA Labs projects and our philosophy 
 
 ## Teams
 
 ### Innovation Labs - Security
 
-![](.gitbook/assets/photo.png)
+![Security Logo](.gitbook/assets/photo.png)
 
-Focused in practical investment about security tendencies and DevSecOps. **Go to Security Team Page:**
+We research new security tendencies, techniques and solutions in about cybersecurity issues, especially focused in SecDevOps processes.
 
-{% page-ref page="security.md" %}
+**Explore our open sourced projects:**
 
-### Innovation Labs - Artificial Intelligence
+{% page-ref page="bbva_labs_security.md" %}
 
-Focused in practical investment about XXXX. **Go to AI Team Page:**
+### BBVA Labs - Artificial Intelligence
 
-{% page-ref page="bbva-labs-artificial-intelligence.md" %}
+Focused in practical research in new Machine Learning, Deep Learning vs Recurrent Neural Networks tendencies.
 
-### Innovation Labs - Hyperscale
+### BBVA Labs - Hyperscale
 
-Focused in practical investment about XXXX . **Go to Hyperscale Team Page:**
-
-{% page-ref page="bbva-labs-hyperscale.md" %}
+Focused in practical research in distributed computing environments to efficiently scale from a few servers to thousands of servers.
 
