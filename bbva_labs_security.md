@@ -45,7 +45,7 @@ DeepTracy is an open security dependency orchestrator service that runs as a ser
 * Proactive alert: It can alert to the project manager when new vulneabilities appears in the project dependencies
 * Featured GraphQL API thanks to Hashura
 
-**Github Repo:** [**https://github.com/BBVA/deeptracy**](https://github.com/BBVA/deeptracy) ****  
+**Github Repo:** [https://github.com/BBVA/deeptracy](https://github.com/BBVA/deeptracy)   
 **Documentation**: [https://github.com/BBVA/deeptracy/tree/master/docs](https://github.com/BBVA/deeptracy/tree/master/docs)
 
 ### Patton - The clever vulnerability dependency finder
