@@ -1,6 +1,6 @@
 # Home
 
-This Site exposes the BBVA Labs projects and our philosophy 
+This Site exposes the BBVA Labs projects and our philosophy
 
 ## Teams
 
@@ -12,7 +12,7 @@ We research new security tendencies, techniques and solutions in about cybersecu
 
 **Explore our open sourced projects:**
 
-{% page-ref page="bbva_labs_security.md" %}
+{% page-ref page="bbva\_labs\_security.md" %}
 
 ### BBVA Labs - Artificial Intelligence
 
