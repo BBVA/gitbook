@@ -8,7 +8,7 @@ description: Security Projects from BBVA Labs Security Team
 
 We are security practitioners controlling our paranoia (sometimes) and focusing our knowledge and experience to build new security solutions and practices for new (and old) IT systems and processes
 
-## What we do?
+## What we do
 
 We research new **security tendencies, techniques and solutions** in Cyber-security issues, especially focused in **SecDevOps** processes. with near-future impact in the security of BBVA Group and hopefully in the rest of the world
 
