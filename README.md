@@ -8,7 +8,7 @@ This Site exposes the BBVA Labs projects and our philosophy
 
 ![Security Logo](.gitbook/assets/photo.png)
 
-We research new security tendencies, techniques and solutions in about cybersecurity issues, especially focused in DevSecOps processes.
+We research new security tendencies, techniques and solutions in about cybersecurity issues, especially focused in SecDevOps processes.
 
 **Explore our open sourced projects:**
 

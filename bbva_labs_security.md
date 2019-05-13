@@ -196,10 +196,21 @@ BrainSlug is a framework for parasitic computing. Allowing you to write programs
   </tbody>
 </table>
 
+### Q.E.D. - Scalable, auditable and high-performance tamper-evident log
 
-### Q.E.D. - The Open Sourced audit-trail platform: faster, hyper-scalable and centralized...but fully verifiable
+QED is an open-source software that allows you to establish trust relations with others. It can be used in multiple scenarios: secure
+tamper evident data transfers, tamper-evident (system/application/business) logging, etc.
 
-QED is a powerful open sourced platform to secure digital certificate any information content exchange.
+QED guarantees that the system itself, event when deployed into a non-trusted server, cannot be modified without being noticed.
+It also provides verifiable cryptographic proofs in logarithmic relation (time and size) to the number of entries.
+
+QED aims to be scalable, resilient and ops friendly:
+
+* Designed to manage billions of events per shard
+* Over 2000 operations per second per shard under sustained load
+* Consistent replication through RAFT
+* Operable and instrumented with dozens of metrics
+* Zero config files, fully documented single binary
 
 <table>
   <tbody>
