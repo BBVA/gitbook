@@ -60,8 +60,8 @@ Patton Server can resolve any library name to their CPE. Then returns the associ
 * Get CPE Identifier from operating system dependency name \(Debian, Alpine, Redhat, Python, Golang...\)
 * **Resolve CVE** vulnerabilities **from CPE identifiers.**
 
-**Github Repo**: [https://patton-server.readthedocs.org/](https://github.com/BBVA/patton-server)   
-**Documentation**: [https://patton-server.readthedocs.org/](https://patton-server.readthedocs.org/)
+**Github Repo**: [https://github.com/BBVA/patton](https://github.com/BBVA/patton)   
+**Documentation**: [https://patton.readthedocs.io](https://patton.readthedocs.io)
 
 ### Kapow - CLI as Microservice
 
