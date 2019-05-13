@@ -22,50 +22,6 @@ Here you can check our projects. We invite you to use them, test them and ... co
 
 ### APICheck - The DevSecOps toolset for REST APIs
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">
-        <p>API-Check is a complete <b>toolset</b> designed and created for <b>testing the REST API</b>.</p>
-        <p></p>
-        <p>API-Check focus not only in the security testing and hacking use cases.
-          The goal of the project is to be a complete toolset for DevSecOPs cycles
-          and for different user profiles:</p>
-        <p></p>
-        <ul>
-          <li>Developers</li>
-          <li>Systems SysAdmins</li>
-          <li>Security &amp; penteters</li>
-        </ul>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
-    <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>
-          <img src=".gitbook/assets/apicheck-logo.png" alt/>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p></p>
-        <p><b>Github Repo</b>: <a href="https://github.com/BBVA/apicheck">https://github.com/BBVA/apicheck</a>
-          <br
-          /><b>Documentation</b>: <a href="https://apicheck.readthedocs.io">https://apicheck.readthedocs.io</a>
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>![](.gitbook/assets/apicheck-logo.png)
 
 API-Check is a complete **toolset** designed and created for **testing the REST API**.
 
@@ -75,8 +31,26 @@ API-Check focus not only in the security testing and hacking use cases. The goal
 * Systems SysAdmins
 * Security & penteters
 
-**Github Repo**: [https://github.com/BBVA/apicheck](https://github.com/BBVA/apicheck)  
-**Documentation**: [https://apicheck.readthedocs.io](https://apicheck.readthedocs.io)
+<table>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p></p>
+        <p>
+          <img src=".gitbook/assets/apicheck-logo.png" alt/>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p>
+            <b>Github Repo</b>: <a href="https://github.com/BBVA/apicheck">https://github.com/BBVA/apicheck</a>
+            <br/>
+            <b>Documentation</b>: <a href="https://apicheck.readthedocs.io">https://apicheck.readthedocs.io</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### DeepTracy - The Security Dependency Analyzers Orchestrator
 
