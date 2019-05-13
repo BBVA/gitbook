@@ -138,7 +138,7 @@ Creating a port scanning REST API backed by the well-known tool [Nmap](https://n
 
 ### Masquerade - Real-Time data obfuscation
 
-Maquerade is a high-performance, real-time, multi-location data obfuscation tool.
+Masquerade is a high-performance, real-time, multi-location data obfuscation tool.
 
 Masquerade allows getting data from many different locations or sources, obfuscate it, and export it to other location. i.e:
 
