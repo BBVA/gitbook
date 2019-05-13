@@ -10,25 +10,25 @@ We are security practitioners controlling our paranoia \(sometimes\) and focusin
 
 ## What we do
 
-We research new **security tendencies, techniques and solutions** in Cyber-security issues, especially focused in **SecDevOps** processes with near-future impact in the security of BBVA Group and hopefully in the rest of the world.
+We research new **security tendencies, techniques and solutions** in Cyber-security issues, especially focused in **DevSecOps** processes with near-future impact in the security of BBVA Group and hopefully in the rest of the world.
 
 ## Our projects
 
 We like Open Source and we believe in the **"Don't reinvent the wheel"** mantra.
 
-We create projects that **try to close the gaps** not covered by any other Open Source projects nor commercial solutions yet.
+We create projects that **try to close the gaps** not covered by neither Open Source projects or commercial solutions yet.
 
-Here you can check our projects. We invite you to use them, test them and ... collaborate. **We welcome contributions!**
+Here you can check our projects. We invite you to use them, test them and... collaborate. **We welcome contributions!**
 
 ### APICheck - The DevSecOps toolset for REST APIs
 
 API-Check is a complete **toolset** designed and created for **testing the REST API**.
 
-API-Check focus not only in the security testing and hacking use cases. The goal of the project is to be a complete toolset for DevSecOPs cycles and for different user profiles:
+API-Check doesn't just focus on the security testing and hacking use cases, it aims to be a complete toolset for DevSecOps cycles as well as supporting different user profiles:
 
 * Developers
-* Systems SysAdmins
-* Security & penteters
+* System Administrators
+* Security & Pentesters
 
 <table>
   <tbody>
@@ -53,12 +53,12 @@ API-Check focus not only in the security testing and hacking use cases. The goal
 
 ### DeepTracy - The Security Dependency Analyzers Orchestrator
 
-DeepTracy is an open security dependency orchestrator service that runs as a service. Featured features:
+DeepTracy is an open security dependency orchestrator service that runs as a service, featuring:
 
-* Manage multiple security dependency analysers.
+* Ability to manage multiple security dependency analysers.
 * Web interface to manage different builds.
-* DevSecOps oriented. Build having in mind the integration with C.I. systems.
-* GraphQL API thanks to Hashura.
+* DevSecOps oriented.  Built having in mind the integration with C.I. systems.
+* GraphQL API, thanks to Hashura.
 
 <table>
   <tbody>
@@ -108,7 +108,7 @@ Patton Server can resolve any library name to their CPEs and return the associat
   </tbody>
 </table>
 
-### Kapow - CLI as Microservice
+### Kapow - CLI as a Microservice
 
 Kapow! is the most powerful way to expose command line tools as REST APIs.
 
@@ -175,9 +175,9 @@ Masquerade currently supports these locations:
 ### Q.E.D. - Scalable, auditable and high-performance tamper-evident log
 
 QED is an open-source software that allows you to establish trust relations with others. It can be used in multiple scenarios: secure
-tamper evident data transfers, tamper-evident (system/application/business) logging, etc.
+tamper-evident data transfers, tamper-evident (system/application/business) logging, etc.
 
-QED guarantees that the system itself, event when deployed into a non-trusted server, cannot be modified without being noticed.
+QED guarantees that the system itself, even when deployed into a non-trusted server, cannot be modified without being detected.
 It also provides verifiable cryptographic proofs in logarithmic relation (time and size) to the number of entries.
 
 QED aims to be scalable, resilient and ops friendly:
@@ -207,4 +207,3 @@ QED aims to be scalable, resilient and ops friendly:
     </tr>
   </tbody>
 </table>
-
