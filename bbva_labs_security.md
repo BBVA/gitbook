@@ -6,7 +6,7 @@ description: Security Projects from BBVA Labs Security Team
 
 ## Who we are
 
-We are security practitioners controlling our paranoia (sometimes) and focusing our knowledge and experience to build new security solutions and practices for new (and old) IT systems and processes.
+We are security practitioners controlling our paranoia \(sometimes\) and focusing our knowledge and experience to build new security solutions and practices for new \(and old\) IT systems and processes.
 
 ## What we do
 
@@ -22,7 +22,50 @@ Here you can check our projects. We invite you to use them, test them and ... co
 
 ### APICheck - The DevSecOps toolset for REST APIs
 
-![](.gitbook/assets/apicheck-logo.png)
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">
+        <p>API-Check is a complete <b>toolset</b> designed and created for <b>testing the REST API</b>.</p>
+        <p></p>
+        <p>API-Check focus not only in the security testing and hacking use cases.
+          The goal of the project is to be a complete toolset for DevSecOPs cycles
+          and for different user profiles:</p>
+        <p></p>
+        <ul>
+          <li>Developers</li>
+          <li>Systems SysAdmins</li>
+          <li>Security &amp; penteters</li>
+        </ul>
+      </th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table><table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p></p>
+        <p>
+          <img src=".gitbook/assets/apicheck-logo.png" alt/>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <p><b>Github Repo</b>: <a href="https://github.com/BBVA/apicheck">https://github.com/BBVA/apicheck</a>
+          <br
+          /><b>Documentation</b>: <a href="https://apicheck.readthedocs.io">https://apicheck.readthedocs.io</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>![](.gitbook/assets/apicheck-logo.png)
 
 API-Check is a complete **toolset** designed and created for **testing the REST API**.
 
@@ -46,8 +89,7 @@ DeepTracy is an open security dependency orchestrator service that runs as a ser
 * DevSecOps oriented. Build having in mind the integration with C.I. systems.
 * GraphQL API thanks to Hashura.
 
-**Github Repo:** [https://github.com/BBVA/deeptracy](https://github.com/BBVA/deeptracy)
-**Documentation**: [https://deeptracy.readthedocs.io/en/latest/](https://deeptracy.readthedocs.io/en/latest/)
+**Github Repo:** [https://github.com/BBVA/deeptracy](https://github.com/BBVA/deeptracy) **Documentation**: [https://deeptracy.readthedocs.io/en/latest/](https://deeptracy.readthedocs.io/en/latest/)
 
 ### Patton - The clever vulnerability dependency finder
 
@@ -59,8 +101,7 @@ Patton Server can resolve any library name to their CPEs and return the associat
 * Get CPE identifier from operating system dependency name \(Debian, Alpine, Redhat, Python, Golang...\).
 * **Resolve CVE** vulnerabilities **from CPE identifiers**.
 
-**Github Repo**: [https://github.com/BBVA/patton](https://github.com/BBVA/patton)
-**Documentation**: [https://patton.readthedocs.io](https://patton.readthedocs.io)
+**Github Repo**: [https://github.com/BBVA/patton](https://github.com/BBVA/patton) **Documentation**: [https://patton.readthedocs.io](https://patton.readthedocs.io)
 
 ### Kapow - CLI as Microservice
 
@@ -72,7 +113,7 @@ Kapow! is the most powerful way to expose command line tools as REST APIs.
 
 Creating a port scanning REST API backed by the well-known tool [Nmap](https://nmap.org) only needs a few Kapow! lines: [http://site.com/tools/nmap/scan/{IP}](http://site.com/tools/nmap/scan/{IP})
 
-**Github Repo**: [https://github.com/BBVA/kapow](https://github.com/BBVA/kapow)   
+**Github Repo**: [https://github.com/BBVA/kapow](https://github.com/BBVA/kapow)  
 **Documentation**: [https://github.com/BBVA/kapow](https://github.com/BBVA/kapow)
 
 ### Masquerade - Real-Time data obfuscation
@@ -93,7 +134,7 @@ Masquerade currently supports these locations:
 * RabbitMQ
 * Local files
 
-**Github Repo**: [https://github.com/BBVA/masquerade](https://github.com/BBVA/masquerade)   
+**Github Repo**: [https://github.com/BBVA/masquerade](https://github.com/BBVA/masquerade)  
 **Documentation**: [https://github.com/BBVA/masquerade](https://github.com/BBVA/masquerade)
 
 ### Q.E.D. - The Open Sourced audit-trail platform: faster, hyper-scalable and centralized...but fully verifiable
@@ -102,6 +143,6 @@ Masquerade currently supports these locations:
 
 QED is a powerful open sourced platform to secure digital certificate any information content exchange.
 
-**Github Repo**: [https://github.com/BBVA/qed](https://github.com/BBVA/qed)   
+**Github Repo**: [https://github.com/BBVA/qed](https://github.com/BBVA/qed)  
 **Documentation**: [https://github.com/BBVA/qed/blob/master/README.md](https://github.com/BBVA/qed/blob/master/README.md)
 
