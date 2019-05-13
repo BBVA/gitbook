@@ -95,7 +95,7 @@ Masquerade currently support these locations:
 * Local files
 
 **Github Repo**: [https://github.com/BBVA/masquerade](https://github.com/BBVA/masquerade)   
-**Documentation**: [https://github.com/BBVA/masquerade](https://github.com/BBVA/masquerade)
+**Documentation**: [https://masquerade-data.readthedocs.io](https://masquerade-data.readthedocs.io)
 
 ### Q.E.D. - The Open Sourced audit-trail platform: faster, hyper-scalable and centralized...but fully verifiable
 
