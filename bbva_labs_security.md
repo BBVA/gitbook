@@ -172,6 +172,31 @@ Masquerade currently supports these locations:
   </tbody>
 </table>
 
+### Brainslug - Parasitic Computing Framework
+
+BrainSlug is a framework for parasitic computing. Allowing you to write programs which code and logic live in a computer but actions or side-effects are performed on another.
+
+<table>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p></p>
+        <p>
+          <img src=".gitbook/assets/brainslug-logo.png" />
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p>
+            <b>Github Repo</b>: <a href="https://github.com/bbva/brainslug">https://github.com/bbva/brainslug</a>
+            <br/>
+            <b>Documentation</b>: <a href="https://github.com/bbva/brainslug">https://github.com/bbva/brainslug</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 ### Q.E.D. - The Open Sourced audit-trail platform: faster, hyper-scalable and centralized...but fully verifiable
 
 QED is a powerful open sourced platform to secure digital certificate any information content exchange.
