@@ -27,8 +27,8 @@ API-Check is a complete **toolset** designed and created for **testing the REST 
 API-Check focus not only in the security testing and hacking use cases. The goal of the project is to be a complete toolset for DevSecOPs cycles and for different user profiles:
 
 * Developers
-* Systems SysAdmins
-* Security & penteters
+* System Administrators
+* Security & Pentesters
 
 <table>
   <tbody>
@@ -53,12 +53,12 @@ API-Check focus not only in the security testing and hacking use cases. The goal
 
 ### DeepTracy - The Security Dependency Analyzers Orchestrator
 
-DeepTracy is an open security dependency orchestrator service that runs as a service. Featured features:
+DeepTracy is an open security dependency orchestrator service that runs as a service, featuring:
 
-* Manage multiple security dependency analysers.
+* Ability to manage multiple security dependency analysers.
 * Web interface to manage different builds.
-* DevSecOps oriented. Build having in mind the integration with C.I. systems.
-* GraphQL API thanks to Hashura.
+* DevSecOps oriented.  Built having in mind the integration with C.I. systems.
+* GraphQL API, thanks to Hashura.
 
 <table>
   <tbody>
@@ -108,7 +108,7 @@ Patton Server can resolve any library name to their CPEs and return the associat
   </tbody>
 </table>
 
-### Kapow - CLI as Microservice
+### Kapow - CLI as a Microservice
 
 Kapow! is the most powerful way to expose command line tools as REST APIs.
 
@@ -199,9 +199,9 @@ BrainSlug is a framework for parasitic computing. Allowing you to write programs
 ### Q.E.D. - Scalable, auditable and high-performance tamper-evident log
 
 QED is an open-source software that allows you to establish trust relations with others. It can be used in multiple scenarios: secure
-tamper evident data transfers, tamper-evident (system/application/business) logging, etc.
+tamper-evident data transfers, tamper-evident (system/application/business) logging, etc.
 
-QED guarantees that the system itself, event when deployed into a non-trusted server, cannot be modified without being noticed.
+QED guarantees that the system itself, even when deployed into a non-trusted server, cannot be modified without being detected.
 It also provides verifiable cryptographic proofs in logarithmic relation (time and size) to the number of entries.
 
 QED aims to be scalable, resilient and ops friendly:
