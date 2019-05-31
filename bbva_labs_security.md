@@ -198,11 +198,14 @@ BrainSlug is a framework for parasitic computing. Allowing you to write programs
 
 ### Q.E.D. - Scalable, auditable and high-performance tamper-evident log
 
-QED is an open-source software that allows you to establish trust relations with others. It can be used in multiple scenarios: secure
-tamper-evident data transfers, tamper-evident (system/application/business) logging, etc.
+QED is an open-source software that allows you to establish trust relations
+with others. It can be used in multiple scenarios: secure tamper-evident data
+transfers, tamper-evident (system/application/business) logging, etc.
 
-QED guarantees that the system itself, even when deployed into a non-trusted server, cannot be modified without being detected.
-It also provides verifiable cryptographic proofs in logarithmic relation (time and size) to the number of entries.
+QED guarantees that the system itself, even when deployed into a non-trusted
+server, cannot be modified without being detected. It also provides verifiable
+cryptographic proofs in logarithmic relation (time and size) to the number of
+entries.
 
 QED aims to be scalable, resilient and ops friendly:
 
@@ -212,23 +215,17 @@ QED aims to be scalable, resilient and ops friendly:
 * Operable and instrumented with dozens of metrics
 * Zero config files, fully documented single binary
 
-<table>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <p></p>
-        <p>
-          <img src=".gitbook/assets/qed_logo.png" />
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p>
-            <b>Github Repo</b>: <a href="https://github.com/BBVA/qed">https://github.com/BBVA/qed</a>
-            <br/>
-            <b>Documentation</b>: <a href="https://github.com/BBVA/qed/blob/master/README.md">https://github.com/BBVA/qed/blob/master/README.md</a>
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
+<table><tbody>
+<tr>
+  <td style="text-align:left">
+    <p></p>
+    <p><img src=".gitbook/assets/qed_logo.png" /></p>
+  </td>
+  <td style="text-align:left">
+    <p>
+    <b>Github Repo</b>: <a href="https://github.com/BBVA/qed">https://github.com/BBVA/qed</a><br/>
+    <b>Documentation</b>: <a href="https://qed.readthedocs.io">https://qed.readthedocs.io</a>
+    </p>
+  </td>
+</tr>
+</tbody></table>
