@@ -2,7 +2,7 @@
 
 ## Who we are
 
-We are multidisciplar engineers groking `the next big thing™` \(sometimes\) and
+We are multidisciplinary engineers grokking `the next big thing™` \(sometimes\) and
 focusing our knowledge and expertise practices for the new \(and old\) IT
 systems and processes.
 
